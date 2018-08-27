@@ -1,0 +1,7 @@
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.vscode/
+Data/
+Output/
+
